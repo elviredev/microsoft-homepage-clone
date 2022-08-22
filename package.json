@@ -1,0 +1,22 @@
+{
+  "name": "microsoft-homepage-clone",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "deploy": "gh-pages -d dist"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/elviredev/microsoft-homepage-clone.git"
+  },
+  "author": "elviredev",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/elviredev/microsoft-homepage-clone/issues"
+  },
+  "homepage": "https://elviredev.github.io/microsoft-homepage-clone",
+  "dependencies": {
+    "gh-pages": "^4.0.0"
+  }
+}
